@@ -1,0 +1,280 @@
+{
+  "meta": {
+    "lang": "en",
+    "ogLocale": "en_US",
+    "title": "Gated Country Lots in Valledupar, Colombia | Portal de la Sierra",
+    "description": "Gated country community near Valledupar, Colombia: 27 homesites of 800 m² (8,611 sq ft) from COP {{@priceM2}}/m² (≈ US${{@usdM2}}), 24/7 guard house, pool and kiosk.",
+    "ogAlt": "Portal de la Sierra guard house with the Sierra Nevada mountains behind",
+    "keywords": "lots for sale Colombia, gated community Colombia, homesites Valledupar, land for sale Colombia, country estate lots, buy land in Colombia, Sierra Nevada de Santa Marta"
+  },
+  "langName": "English",
+  "brand": {
+    "alt": "Portal de la Sierra, gated country community"
+  },
+  "nav": {
+    "aria": "Main",
+    "project": "The Project",
+    "masterplan": "3D Site Plan",
+    "gallery": "Gallery",
+    "location": "Location",
+    "faq": "FAQ",
+    "langAria": "Language"
+  },
+  "cta": {
+    "visit": "Schedule a tour"
+  },
+  "hero": {
+    "imgAlt": "Rendering of the Portal de la Sierra guard house with the Sierra Nevada in the background",
+    "eyebrow": "Gated country community · Valledupar, Colombia",
+    "h1": "A place to build <span class=\"script\">your future</span>",
+    "lead": "Country homesites surrounded by nature, minutes from the city. 27 lots of 800&nbsp;m² (≈&nbsp;8,611&nbsp;sq&nbsp;ft) in a private gated community with a 24/7 guard house and mountain views.",
+    "cta3d": "Explore in 3D",
+    "ctaInfo": "Request information",
+    "meta": "<span><strong>27</strong> homesites</span><span><strong>800 m²</strong> (≈ 0.2 acres) each</span><span>From <strong>COP {{@priceM2}}/m²</strong> (≈ US${{@usdM2}})</span><span>Listed by <strong>Núñez Anaya Inmobiliaria</strong></span>",
+    "scroll": "Scroll"
+  },
+  "proj": {
+    "eyebrow": "The project",
+    "h2": "More than a lot — a place to plan your future",
+    "body": "Portal de la Sierra is a country community set in an exceptional natural setting, designed for people who want to invest in land, build their future home, or simply enjoy a weekend retreat surrounded by nature.",
+    "facts": "<strong>At a glance:</strong> a private, gated country community on the Valledupar – Sabana Crespo road (Cesar, Colombia) with 27 homesites of 800&nbsp;m² from COP {{@priceM2}}/m² (≈ US${{@usdM2}}/m², about US${{@usdLot}} per lot), a 24/7 guard house and a shared amenity area with pool and kiosk. Listed by Núñez Anaya Inmobiliaria.",
+    "u1t": "Build your dream home",
+    "u1d": "800 m² homesites fronting the internal road, ready for your plans.",
+    "u2t": "Invest in land",
+    "u2d": "A tangible asset on the outskirts of Valledupar, right on the access road.",
+    "u3t": "Slow down",
+    "u3d": "Weekends in the mild foothill climate, with a pool and kiosk in the shared amenity area.",
+    "imgAlt": "Rendering of a country home with a pool, as an example of what you can build",
+    "caption": "Reference rendering"
+  },
+  "pil": {
+    "aria": "Why Portal de la Sierra",
+    "p1t": "Nature",
+    "p1d": "Exceptional setting",
+    "p2t": "Location",
+    "p2d": "Valledupar –<br>Sabana Crespo road",
+    "p3t": "Exclusivity",
+    "p3d": "Only <span class=\"n\" data-count=\"27\">27</span> homesites",
+    "p4t": "Appreciation",
+    "p4d": "Land as a long-term asset"
+  },
+  "offer": {
+    "aria": "Offer",
+    "eyebrow": "Your space",
+    "h2": "Your own place at <span class=\"script\">Portal de la Sierra</span>",
+    "c1b": "Lot size",
+    "c1s": "800 m²",
+    "c1d": "≈ 8,611 sq ft · 0.2 acres",
+    "c2b": "Price",
+    "c2s": "From COP {{@priceM2}}/m²",
+    "c2d": "≈ US${{@usdM2}}/m² · US${{@usdSqft}}/sq ft",
+    "c3b": "Internal roads",
+    "c3d": "Easy, secure<br>access",
+    "c4b": "Natural setting",
+    "c4d": "Peace, quiet<br>and fresh air"
+  },
+  "wa": {
+    "visitText": "Hi, I'd like to schedule a tour of Portal de la Sierra. (Mensaje desde la versión en inglés del sitio)",
+    "infoText": "Hi, I'd like information about Portal de la Sierra. (Mensaje desde la versión en inglés del sitio)",
+    "floatAria": "Message us on WhatsApp at {{@phone}}"
+  },
+  "plan": {
+    "aria": "Interactive 3D site plan",
+    "eyebrow": "Interactive site plan",
+    "h2": "Pick your homesite",
+    "p": "Rotate, zoom in and tap any lot to see its details. The model is built on the coordinates of the official land survey.",
+    "canvasAria": "3D model of the community with 27 homesites",
+    "toolsAria": "Model controls",
+    "tAerial": "Top view",
+    "tTour": "Drive-through",
+    "tNight": "Night",
+    "tHouses": "Picture your home",
+    "tRotate": "Rotate",
+    "common": "Amenity area",
+    "gate": "Tap to explore the model",
+    "panelAria": "Lot details",
+    "close": "Close details",
+    "lot": "LOT",
+    "area": "Size",
+    "side": "Side",
+    "price": "Price",
+    "front": "Fronts",
+    "ask": "Ask us",
+    "interest": "I'm interested in this lot",
+    "prev": "← Previous",
+    "next": "Next →",
+    "stripAria": "Select a lot",
+    "disclaimer": "Illustrative model based on the subdivision plat (Sept. 2026). Availability as of {{@availDate}}. Boundaries, sizes and availability are subject to confirmation with your advisor. Homes shown in “Picture your home” mode are reference massing only."
+  },
+  "gal": {
+    "aria": "Gallery",
+    "eyebrow": "Gallery",
+    "h2": "Life at Portal de la Sierra",
+    "p": "Renderings of the entrance, the amenity area and a reference home. Click any image to view it full size.",
+    "s1alt": "Sunset rendering of the guard house with vehicle gate and security booth",
+    "s1t": "Guard house",
+    "s1d": "24/7 access control",
+    "s2alt": "Rendering of the amenity area with pool, hot tub and palm-thatched kiosk",
+    "s2t": "Amenity area",
+    "s2d": "Pool · kiosk · green spaces",
+    "s3alt": "Daytime rendering of the entrance with mountains in the background",
+    "s3t": "The entrance",
+    "s3d": "Stone, wood and native landscaping",
+    "s4alt": "Aerial night view of the lit internal road",
+    "s4t": "By night",
+    "s4d": "Street-lit internal road",
+    "s5alt": "Rendering of a single-story country home with a pool",
+    "s5t": "Your home",
+    "s5d": "Reference home on an 800 m² lot"
+  },
+  "feat": {
+    "aria": "Features",
+    "eyebrow": "Why here",
+    "h2": "Nature, security and privacy",
+    "p": "A small, low-density community where every lot has room for a home, a garden and a pool — with the peace of mind of controlled access.",
+    "f1t": "Natural setting",
+    "f1d": "In the foothills of the Sierra Nevada, with native trees and fresh air just minutes from the city.",
+    "f2t": "24/7 security",
+    "f2d": "Gated community with a guard house, security booth and vehicle access gate.",
+    "f3t": "Sustainable by design",
+    "f3d": "Generous lots that keep permeable ground, vegetation and room for solar.",
+    "f4t": "Prime location",
+    "f4d": "On the Valledupar – Sabana Crespo road, close to everything the city offers.",
+    "imgAlt": "Amenity area with swimming pool",
+    "caption": "Amenity area rendering",
+    "figures": "The community by the numbers",
+    "r1": "Total site area",
+    "v1": "27,333 m² (≈ 6.75 acres)",
+    "r2": "Residential homesites",
+    "v2": "27 · 800 m² (Lot 17: 847 m² · Lot 18: 939 m²)",
+    "r3": "Internal road",
+    "v3": "North–south main road + branch",
+    "r4": "Amenity area",
+    "v4": "Pool, kiosk and green spaces",
+    "r5": "Guard house",
+    "v5": "On the road to Valledupar",
+    "r6": "Elevation",
+    "v6": "276 – 288 m (905 – 945 ft)"
+  },
+  "loc": {
+    "aria": "Location",
+    "eyebrow": "Location",
+    "h2": "Valledupar – Sabana Crespo road",
+    "body": "The property borders the road to Valledupar on its northeast side, where the guard house sits. From there, an internal road runs north to south through the community and fronts every lot.",
+    "maps": "Open in Google Maps",
+    "visit": "Schedule a site visit",
+    "thPoint": "Point",
+    "thN": "Northing",
+    "thE": "Easting",
+    "caption": "Survey coordinate table from the subdivision plat · Area: 27,333.71 m²",
+    "surveyAria": "Outline of the property with its survey points",
+    "tag": "Land survey · points 1–11",
+    "svgAria": "Property boundary"
+  },
+  "faq": {
+    "aria": "Frequently asked questions",
+    "eyebrow": "FAQ",
+    "h2": "Questions buyers ask us",
+    "items": [
+      [
+        "How much does a lot cost at Portal de la Sierra?",
+        "Homesites start at COP {{@priceM2}} per m² (≈ US${{@usdM2}}/m², about US${{@usdSqft}} per sq ft), so an 800 m² lot starts at COP {{@priceLot}} (≈ US${{@usdLot}}). Dollar figures are estimates at COP {{@fxRate}} per US$; final pricing, payment options and availability are confirmed by Núñez Anaya Inmobiliaria."
+      ],
+      [
+        "How big are the lots?",
+        "There are 27 homesites: 25 of 800 m² (≈ 8,611 sq ft, about 0.2 acres), plus Lot 17 at 847 m² and Lot 18 at 939 m². The whole property covers 27,333 m² (≈ 6.75 acres)."
+      ],
+      [
+        "Where is Portal de la Sierra located?",
+        "On the Valledupar – Sabana Crespo road, on the outskirts of Valledupar in the Cesar department of northern Colombia, in the foothills of the Sierra Nevada de Santa Marta. The site sits 276–288 m (905–945 ft) above sea level."
+      ],
+      [
+        "Is it a gated community?",
+        "Yes. It is a private, gated country community with a 24/7 guard house, a security booth and a vehicle access gate."
+      ],
+      [
+        "What amenities are included?",
+        "A shared amenity area with a swimming pool, hot tub, palm-thatched kiosk and green spaces, plus an internal road that fronts every lot."
+      ],
+      [
+        "What can I build on an 800 m² lot?",
+        "There is room for a single-family country home with a garden and a pool — the gallery shows a single-story reference home. Ask your advisor for the community's building guidelines."
+      ],
+      [
+        "Can foreigners buy property in Colombia?",
+        "Yes. Foreigners and Colombians living abroad can buy real estate in Colombia with the same property rights as locals. Funds sent from abroad should come in through the official foreign-exchange market so the investment can be registered with Colombia's central bank (Banco de la República). This is general information — please confirm the details with a Colombian real estate attorney."
+      ],
+      [
+        "Can I explore the property remotely?",
+        "Yes. The interactive 3D site plan on this page is built on the land survey coordinates, and an advisor can walk you through the available lots over WhatsApp before you travel."
+      ],
+      [
+        "How do I schedule a tour?",
+        "Message us on WhatsApp at {{@phone}} or use the form on this page, and a Núñez Anaya Inmobiliaria advisor will set up your site visit."
+      ]
+    ]
+  },
+  "contact": {
+    "aria": "Contact",
+    "h2": "Where your dreams find a home",
+    "body": "Tell us which lot you're interested in and a Núñez Anaya Inmobiliaria advisor will get back to you with pricing, payment options and availability."
+  },
+  "form": {
+    "name": "Name",
+    "namePh": "Your name",
+    "phone": "Phone / WhatsApp",
+    "phonePh": "+1 555 000 0000",
+    "lot": "Lot of interest",
+    "lotNone": "Not sure yet — I'd like advice",
+    "msg": "Message",
+    "msgPh": "When would you like to visit?",
+    "submit": "Prepare message",
+    "sendWa": "Send via WhatsApp",
+    "copy": "Copy message"
+  },
+  "footer": {
+    "firmaAlt": "A Núñez Anaya Inmobiliaria project",
+    "legal": "Renderings are for illustrative purposes only. The site plan, lot sizes and availability may change without notice; final information is provided in the purchase agreement (promesa de compraventa). US$ figures are approximate, based on an exchange rate of COP {{@fxRate}} per US$ ({{@fxDate}}); official prices are in Colombian pesos."
+  },
+  "lb": {
+    "aria": "Enlarged image",
+    "close": "Close"
+  },
+  "js": {
+    "status": {
+      "disponible": "Available",
+      "reservado": "Reserved",
+      "vendido": "Sold"
+    },
+    "side": {
+      "w": "West",
+      "s": "South",
+      "e": "East"
+    },
+    "front": {
+      "road": "Internal road",
+      "south": "South branch"
+    },
+    "lot": "Lot",
+    "note": {
+      "gate": "Next to the guard house, fronting the access road.",
+      "common": "Borders the amenity area with pool and kiosk.",
+      "south": "South end of the community, the farthest from the main road.",
+      "mid": "Interior lot fronting the community's internal road.",
+      "price": " Reference price COP {p}/m², subject to confirmation with your advisor.",
+      "usd": " This lot ≈ {v}."
+    },
+    "ctaSold": "See available lots",
+    "ctaInterest": "I'm interested in this lot",
+    "ask": "Ask us",
+    "needInfo": "Enter your name and phone number to prepare the message.",
+    "lotSel": "Lot {n}",
+    "lotAny": "the available lots",
+    "msg": "Hi, I'm {name}. I'm interested in {lot} at Portal de la Sierra.{msg} My phone number is {phone}. (Mensaje desde la versión en inglés del sitio)",
+    "copied": "Copied",
+    "copy": "Copy message",
+    "ig": "Message us on Instagram",
+    "no3d": "The 3D model couldn't load in this browser.",
+    "noWebgl": "Your browser doesn't support WebGL. See the gallery and site plan below."
+  }
+}

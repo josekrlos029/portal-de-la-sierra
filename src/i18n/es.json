@@ -1,0 +1,276 @@
+{
+  "meta": {
+    "lang": "es-CO",
+    "ogLocale": "es_CO",
+    "title": "Lotes campestres en Valledupar · Portal de la Sierra",
+    "description": "Condominio campestre en la vía Valledupar – Sabana Crespo: 27 lotes de 800 m² desde ${{@priceM2}}/m², portería 24/7, piscina y kiosko. Agenda tu visita.",
+    "ogAlt": "Portería de Portal de la Sierra con la Sierra Nevada al fondo",
+    "keywords": "lotes campestres Valledupar, condominio campestre Valledupar, lotes en venta Valledupar, vía Sabana Crespo, lote 800 m², conjunto cerrado, Núñez Anaya Inmobiliaria"
+  },
+  "langName": "Español",
+  "brand": {
+    "alt": "Portal de la Sierra, condominio campestre"
+  },
+  "nav": {
+    "aria": "Principal",
+    "project": "Proyecto",
+    "masterplan": "Masterplan 3D",
+    "gallery": "Galería",
+    "location": "Ubicación",
+    "faq": "Preguntas",
+    "langAria": "Idioma"
+  },
+  "cta": {
+    "visit": "Agenda tu visita"
+  },
+  "hero": {
+    "imgAlt": "Render de la portería de Portal de la Sierra con la Sierra Nevada al fondo",
+    "eyebrow": "Condominio campestre · Vía Valledupar – Sabana Crespo",
+    "h1": "Un lugar para construir <span class=\"script\">tu futuro</span>",
+    "lead": "Lotes campestres rodeados de naturaleza, con la cercanía de la ciudad. 27 lotes de 800&nbsp;m² en un conjunto cerrado con portería 24/7 y vista a la Sierra.",
+    "cta3d": "Explorar en 3D",
+    "ctaInfo": "Quiero información",
+    "meta": "<span><strong>27</strong> lotes</span><span><strong>800 m²</strong> por lote</span><span>Desde <strong>${{@priceM2}}/m²</strong></span><span>Comercializa <strong>Núñez Anaya Inmobiliaria</strong></span>",
+    "scroll": "Desliza"
+  },
+  "proj": {
+    "eyebrow": "El proyecto",
+    "h2": "Más que un lote, un lugar para proyectar tu futuro",
+    "body": "Portal de la Sierra es un proyecto campestre ubicado en un entorno natural privilegiado, pensado para quienes quieren invertir en tierra, construir su futura vivienda o disfrutar de un espacio rodeado de naturaleza.",
+    "facts": "<strong>En resumen:</strong> condominio campestre cerrado sobre la vía Valledupar – Sabana Crespo (Cesar, Colombia), con 27 lotes de 800&nbsp;m² desde ${{@priceM2}}/m², portería 24/7 y área común con piscina y kiosko. Lo comercializa Núñez Anaya Inmobiliaria.",
+    "u1t": "Construye tu casa",
+    "u1d": "Lotes de 800 m² con frente sobre la vía interna, listos para tu proyecto.",
+    "u2t": "Invierte en tierra",
+    "u2d": "Un activo que se valoriza a las afueras de Valledupar, sobre vía de acceso.",
+    "u3t": "Vive el descanso",
+    "u3d": "Fines de semana en clima de piedemonte, con piscina y kiosko en el área común.",
+    "imgAlt": "Render de una casa campestre con piscina como referencia de lo que se puede construir",
+    "caption": "Render de referencia"
+  },
+  "pil": {
+    "aria": "Por qué Portal de la Sierra",
+    "p1t": "Naturaleza",
+    "p1d": "Entorno privilegiado",
+    "p2t": "Ubicación",
+    "p2d": "Vía Valledupar –<br>Sabana Crespo",
+    "p3t": "Exclusividad",
+    "p3d": "Solo <span class=\"n\" data-count=\"27\">27</span> lotes",
+    "p4t": "Alta valorización",
+    "p4d": "Una inversión segura"
+  },
+  "offer": {
+    "aria": "Oferta",
+    "eyebrow": "Tu espacio",
+    "h2": "Tu espacio dentro de <span class=\"script\">Portal de la Sierra</span>",
+    "c1b": "Área",
+    "c1s": "800 m²",
+    "c1d": "por lote",
+    "c2b": "Precio",
+    "c2s": "Desde ${{@priceM2}}/m²",
+    "c2d": "",
+    "c3b": "Vías internas",
+    "c3d": "Acceso cómodo<br>y seguro",
+    "c4b": "Entorno natural",
+    "c4d": "Tranquilidad<br>y aire puro"
+  },
+  "wa": {
+    "visitText": "Hola, quiero agendar una visita a Portal de la Sierra.",
+    "infoText": "Hola, quiero información sobre Portal de la Sierra.",
+    "floatAria": "Escribir por WhatsApp al {{@phone}}"
+  },
+  "plan": {
+    "aria": "Masterplan 3D interactivo",
+    "eyebrow": "Masterplan interactivo",
+    "h2": "Elige tu lote",
+    "p": "Gira, acércate y toca cualquier lote para ver su ficha. El modelo está construido sobre las coordenadas del levantamiento topográfico.",
+    "canvasAria": "Modelo 3D del condominio con 27 lotes",
+    "toolsAria": "Controles del modelo",
+    "tAerial": "Planta",
+    "tTour": "Recorrido",
+    "tNight": "Noche",
+    "tHouses": "Imagina tu casa",
+    "tRotate": "Girar",
+    "common": "Área común",
+    "gate": "Tocar para explorar el modelo",
+    "panelAria": "Ficha del lote",
+    "close": "Cerrar ficha",
+    "lot": "LOTE",
+    "area": "Área",
+    "side": "Costado",
+    "price": "Precio",
+    "front": "Frente a",
+    "ask": "Consultar",
+    "interest": "Me interesa este lote",
+    "prev": "← Anterior",
+    "next": "Siguiente →",
+    "stripAria": "Seleccionar lote",
+    "disclaimer": "Modelo ilustrativo generado a partir del plano de loteo (sept. 2026). Disponibilidad al {{@availDate}}. Linderos, áreas y estados de disponibilidad sujetos a confirmación con el asesor. Las casas del modo “Imagina tu casa” son volumetrías de referencia."
+  },
+  "gal": {
+    "aria": "Galería",
+    "eyebrow": "Galería",
+    "h2": "Así se vive el Portal",
+    "p": "Renders del acceso, el área común y una vivienda de referencia. Haz clic en cualquier imagen para verla completa.",
+    "s1alt": "Render al atardecer de la portería con talanquera y caseta de vigilancia",
+    "s1t": "Portería",
+    "s1d": "Control de acceso 24/7",
+    "s2alt": "Render del área común con piscina, jacuzzi y kiosko de techo en palma",
+    "s2t": "Área común",
+    "s2d": "Piscina · kiosko · zonas verdes",
+    "s3alt": "Render diurno del acceso con montañas al fondo",
+    "s3t": "El acceso",
+    "s3d": "Piedra, madera y paisajismo nativo",
+    "s4alt": "Vista aérea nocturna de la vía interna iluminada",
+    "s4t": "De noche",
+    "s4d": "Vía interna iluminada",
+    "s5alt": "Render de casa campestre de un piso con piscina",
+    "s5t": "Tu casa",
+    "s5d": "Referencia sobre lote de 800 m²"
+  },
+  "feat": {
+    "aria": "Atributos",
+    "eyebrow": "Por qué aquí",
+    "h2": "Naturaleza, seguridad y exclusividad",
+    "p": "Un conjunto pequeño, de baja densidad, donde cada lote tiene espacio para casa, jardín y piscina, con la tranquilidad de un acceso controlado.",
+    "f1t": "Entorno natural",
+    "f1d": "Piedemonte de la Sierra Nevada, con árboles nativos y aire fresco a minutos de la ciudad.",
+    "f2t": "Seguridad 24/7",
+    "f2d": "Conjunto cerrado con portería, caseta de vigilancia y talanquera de control vehicular.",
+    "f3t": "Diseño sostenible",
+    "f3d": "Lotes amplios que conservan suelo permeable, vegetación y espacio para soluciones solares.",
+    "f4t": "Ubicación privilegiada",
+    "f4d": "Sobre la vía Valledupar – Sabana Crespo, con la cercanía de la ciudad.",
+    "imgAlt": "Área común con piscina",
+    "caption": "Render del área común",
+    "figures": "El conjunto en cifras",
+    "r1": "Área total del predio",
+    "v1": "27.333 m² (2,7 ha)",
+    "r2": "Lotes residenciales",
+    "v2": "27 · 800 m² (L17: 847 m² · L18: 939 m²)",
+    "r3": "Vía interna",
+    "v3": "Eje central norte–sur + ramal",
+    "r4": "Área común",
+    "v4": "Piscina, kiosko y zonas verdes",
+    "r5": "Portería",
+    "v5": "Sobre la vía a Valledupar",
+    "r6": "Cota del terreno",
+    "v6": "276 – 288 m s. n. m."
+  },
+  "loc": {
+    "aria": "Ubicación",
+    "eyebrow": "Ubicación",
+    "h2": "Vía Valledupar – Sabana Crespo",
+    "body": "El predio limita al nororiente con la vía a Valledupar, donde se ubica la portería. Desde allí, una vía interna recorre el conjunto de norte a sur y da frente a todos los lotes.",
+    "maps": "Abrir en Google Maps",
+    "visit": "Agendar visita al lote",
+    "thPoint": "Punto",
+    "thN": "Norte",
+    "thE": "Este",
+    "caption": "Cuadro de coordenadas del plano de loteo · Área: 2 ha 7.333,71 m²",
+    "surveyAria": "Esquema del predio con sus vértices",
+    "tag": "Levantamiento · vértices 1–11",
+    "svgAria": "Contorno del predio"
+  },
+  "faq": {
+    "aria": "Preguntas frecuentes",
+    "eyebrow": "Preguntas frecuentes",
+    "h2": "Lo que más nos preguntan",
+    "items": [
+      [
+        "¿Cuánto cuesta un lote en Portal de la Sierra?",
+        "Los lotes están desde ${{@priceM2}} por m², es decir, un lote de 800 m² parte de ${{@priceLot}} COP. El precio final, las formas de pago y la disponibilidad se confirman con el asesor de Núñez Anaya Inmobiliaria."
+      ],
+      [
+        "¿De qué tamaño son los lotes?",
+        "El conjunto tiene 27 lotes: 25 de 800 m², el lote 17 de 847 m² y el lote 18 de 939 m². El predio total mide 27.333 m² (2,7 hectáreas)."
+      ],
+      [
+        "¿Dónde queda Portal de la Sierra?",
+        "Sobre la vía Valledupar – Sabana Crespo, a las afueras de Valledupar (Cesar, Colombia), en el piedemonte de la Sierra Nevada de Santa Marta. La portería da a la vía y el terreno está entre 276 y 288 m s. n. m."
+      ],
+      [
+        "¿Es un conjunto cerrado? ¿Qué seguridad tiene?",
+        "Sí. Es un condominio campestre cerrado con portería 24/7, caseta de vigilancia y talanquera de control vehicular."
+      ],
+      [
+        "¿Qué zonas comunes tiene?",
+        "Un área común con piscina, jacuzzi, kiosko con techo en palma y zonas verdes, además de una vía interna que da frente a todos los lotes."
+      ],
+      [
+        "¿Qué puedo construir en un lote de 800 m²?",
+        "Hay espacio para una casa campestre con jardín y piscina; en la galería hay una vivienda de un piso como referencia. Las normas de construcción del condominio las confirma el asesor."
+      ],
+      [
+        "Vivo fuera de Colombia, ¿puedo comprar?",
+        "Sí. Colombianos en el exterior y extranjeros pueden comprar inmuebles en Colombia. Puedes conocer el proyecto con el masterplan 3D y la asesoría por WhatsApp. Si el dinero viene del exterior, conviene canalizarlo por el mercado cambiario y registrar la inversión ante el Banco de la República; valida los detalles con tu asesor legal."
+      ],
+      [
+        "¿Cómo agendo una visita?",
+        "Escríbenos por WhatsApp al {{@phone}} o usa el formulario de esta página. Un asesor de Núñez Anaya Inmobiliaria coordina contigo la visita al lote."
+      ]
+    ]
+  },
+  "contact": {
+    "aria": "Contacto",
+    "h2": "Un lugar donde tus sueños encuentran su hogar",
+    "body": "Cuéntanos qué lote te interesa y un asesor de Núñez Anaya Inmobiliaria te contactará con precios, formas de pago y disponibilidad."
+  },
+  "form": {
+    "name": "Nombre",
+    "namePh": "Tu nombre",
+    "phone": "Celular",
+    "phonePh": "300 000 0000",
+    "lot": "Lote de interés",
+    "lotNone": "Aún no sé, quiero asesoría",
+    "msg": "Mensaje",
+    "msgPh": "¿Cuándo te gustaría visitar el proyecto?",
+    "submit": "Preparar mensaje",
+    "sendWa": "Enviar por WhatsApp",
+    "copy": "Copiar mensaje"
+  },
+  "footer": {
+    "firmaAlt": "Un proyecto de Núñez Anaya Inmobiliaria",
+    "legal": "Imágenes de referencia generadas para fines ilustrativos. El plano, las áreas y la disponibilidad pueden cambiar sin previo aviso; la información definitiva se entrega en la promesa de compraventa."
+  },
+  "lb": {
+    "aria": "Imagen ampliada",
+    "close": "Cerrar"
+  },
+  "js": {
+    "status": {
+      "disponible": "Disponible",
+      "reservado": "Reservado",
+      "vendido": "Vendido"
+    },
+    "side": {
+      "w": "Occidental",
+      "s": "Sur",
+      "e": "Oriental"
+    },
+    "front": {
+      "road": "Vía interna",
+      "south": "Ramal sur"
+    },
+    "lot": "Lote",
+    "note": {
+      "gate": "Junto a la portería, con frente a la vía de acceso.",
+      "common": "Colinda con el área común de piscina y kiosko.",
+      "south": "Zona sur del conjunto, la más retirada de la vía principal.",
+      "mid": "Lote medianero con frente a la vía interna del conjunto.",
+      "price": " Precio de referencia a {p}/m², sujeto a confirmación con el asesor.",
+      "usd": ""
+    },
+    "ctaSold": "Ver lotes disponibles",
+    "ctaInterest": "Me interesa este lote",
+    "ask": "Consultar",
+    "needInfo": "Escribe tu nombre y tu celular para preparar el mensaje.",
+    "lotSel": "el Lote {n}",
+    "lotAny": "los lotes disponibles",
+    "msg": "Hola, soy {name}. Me interesa {lot} de Portal de la Sierra.{msg} Mi celular es {phone}.",
+    "copied": "Copiado",
+    "copy": "Copiar mensaje",
+    "ig": "Escribir por Instagram",
+    "no3d": "No se pudo cargar el modelo 3D en este navegador.",
+    "noWebgl": "Tu navegador no soporta WebGL. Mira la galería y el plano más abajo."
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "_comment": "Datos comerciales del proyecto. Editar aquí y correr `node build.mjs`.",
+  "siteUrl": "https://www.portaldelasierra.com",
+  "whatsapp": "573104017792",
+  "phoneLocal": "310 401 7792",
+  "phoneIntl": "+57 310 401 7792",
+  "instagram": "https://www.instagram.com/nunezanayainmobiliaria",
+  "precioM2": 250000,
+  "fx": { "usd": 3160, "fecha": "2026-10-21", "_comment": "COP por US$ (TRM). Solo para equivalentes referenciales en EN/PT." },
+  "maps": { "lat": 10.51085, "lng": -73.30123 },
+  "estados": {},
+  "_estados": "Estado por lote: \"disponible\" | \"reservado\" | \"vendido\". Ej: { \"5\": \"vendido\", \"12\": \"reservado\" }",
+  "disponibilidadAl": "2026-10-26",
+  "coords": [[1,1654427.497,1084974.518],[2,1654353.100,1085041.522],[3,1654250.678,1085021.474],[4,1654149.126,1085004.223],[5,1654033.708,1084984.602],[6,1654106.000,1084912.000],[7,1654183.000,1084927.000],[8,1654220.318,1084935.147],[9,1654319.368,1084945.824],[10,1654355.084,1084952.862],[11,1654379.119,1084959.790]],
+  "lots": {"17": 847, "18": 939},
+  "lotCount": 27,
+  "lotArea": 800
+}

@@ -1,0 +1,280 @@
+{
+  "meta": {
+    "lang": "pt-BR",
+    "ogLocale": "pt_BR",
+    "title": "Lotes em Condomínio Fechado na Colômbia | Portal de la Sierra",
+    "description": "Condomínio fechado de lotes no pé da Sierra Nevada, em Valledupar (Colômbia): 27 lotes de 800 m² a partir de COP {{@priceM2}}/m² (≈ US$ {{@usdM2}}), portaria 24h e área de lazer.",
+    "ogAlt": "Portaria do Portal de la Sierra com a Sierra Nevada ao fundo",
+    "keywords": "lotes em condomínio fechado, terreno na Colômbia, loteamento Valledupar, comprar terreno na Colômbia, lote 800 m², condomínio de lotes alto padrão, investir em terra"
+  },
+  "langName": "Português",
+  "brand": {
+    "alt": "Portal de la Sierra, condomínio de lotes"
+  },
+  "nav": {
+    "aria": "Principal",
+    "project": "O empreendimento",
+    "masterplan": "Implantação 3D",
+    "gallery": "Galeria",
+    "location": "Localização",
+    "faq": "Dúvidas",
+    "langAria": "Idioma"
+  },
+  "cta": {
+    "visit": "Agende sua visita"
+  },
+  "hero": {
+    "imgAlt": "Perspectiva da portaria do Portal de la Sierra com a Sierra Nevada ao fundo",
+    "eyebrow": "Condomínio fechado de lotes · Valledupar, Colômbia",
+    "h1": "Um lugar para construir <span class=\"script\">o seu futuro</span>",
+    "lead": "Lotes cercados de natureza, perto da cidade. São 27 lotes de 800&nbsp;m² em condomínio fechado, com portaria 24h e vista para a Sierra Nevada.",
+    "cta3d": "Explorar em 3D",
+    "ctaInfo": "Quero informações",
+    "meta": "<span><strong>27</strong> lotes</span><span><strong>800 m²</strong> por lote</span><span>A partir de <strong>COP {{@priceM2}}/m²</strong> (≈ US$ {{@usdM2}})</span><span>Vendas <strong>Núñez Anaya Inmobiliaria</strong></span>",
+    "scroll": "Role"
+  },
+  "proj": {
+    "eyebrow": "O empreendimento",
+    "h2": "Mais que um lote, um lugar para planejar o seu futuro",
+    "body": "O Portal de la Sierra é um loteamento fechado em meio a uma natureza privilegiada, pensado para quem quer investir em terra, construir a casa dos sonhos ou ter um refúgio de fim de semana cercado de verde.",
+    "facts": "<strong>Em resumo:</strong> condomínio fechado de lotes na estrada Valledupar – Sabana Crespo (Cesar, Colômbia), com 27 lotes de 800&nbsp;m² a partir de COP {{@priceM2}}/m² (≈ US$ {{@usdM2}}/m², cerca de US$ {{@usdLot}} por lote), portaria 24h e área de lazer com piscina e quiosque. Vendas: Núñez Anaya Inmobiliaria.",
+    "u1t": "Construa sua casa",
+    "u1d": "Lotes de 800 m² com frente para a via interna, prontos para o seu projeto.",
+    "u2t": "Invista em terra",
+    "u2d": "Um patrimônio com potencial de valorização nos arredores de Valledupar, com acesso direto pela estrada.",
+    "u3t": "Viva o descanso",
+    "u3d": "Fins de semana no clima ameno do pé da serra, com piscina e quiosque na área de lazer.",
+    "imgAlt": "Perspectiva de uma casa de campo com piscina, como referência do que é possível construir",
+    "caption": "Imagem ilustrativa"
+  },
+  "pil": {
+    "aria": "Por que o Portal de la Sierra",
+    "p1t": "Natureza",
+    "p1d": "Entorno privilegiado",
+    "p2t": "Localização",
+    "p2d": "Estrada Valledupar –<br>Sabana Crespo",
+    "p3t": "Exclusividade",
+    "p3d": "Apenas <span class=\"n\" data-count=\"27\">27</span> lotes",
+    "p4t": "Valorização",
+    "p4d": "Terra como patrimônio"
+  },
+  "offer": {
+    "aria": "Oferta",
+    "eyebrow": "Seu espaço",
+    "h2": "Seu espaço no <span class=\"script\">Portal de la Sierra</span>",
+    "c1b": "Área",
+    "c1s": "800 m²",
+    "c1d": "por lote",
+    "c2b": "Preço",
+    "c2s": "A partir de COP {{@priceM2}}/m²",
+    "c2d": "≈ US$ {{@usdM2}}/m²",
+    "c3b": "Vias internas",
+    "c3d": "Acesso prático<br>e seguro",
+    "c4b": "Natureza",
+    "c4d": "Tranquilidade<br>e ar puro"
+  },
+  "wa": {
+    "visitText": "Olá, quero agendar uma visita ao Portal de la Sierra. (Mensaje desde la versión en portugués del sitio)",
+    "infoText": "Olá, quero informações sobre o Portal de la Sierra. (Mensaje desde la versión en portugués del sitio)",
+    "floatAria": "Falar pelo WhatsApp no {{@phone}}"
+  },
+  "plan": {
+    "aria": "Implantação 3D interativa",
+    "eyebrow": "Implantação interativa",
+    "h2": "Escolha o seu lote",
+    "p": "Gire, aproxime e toque em qualquer lote para ver a ficha. O modelo foi construído sobre as coordenadas do levantamento topográfico.",
+    "canvasAria": "Modelo 3D do condomínio com 27 lotes",
+    "toolsAria": "Controles do modelo",
+    "tAerial": "Planta",
+    "tTour": "Passeio",
+    "tNight": "Noite",
+    "tHouses": "Imagine sua casa",
+    "tRotate": "Girar",
+    "common": "Área de lazer",
+    "gate": "Toque para explorar o modelo",
+    "panelAria": "Ficha do lote",
+    "close": "Fechar ficha",
+    "lot": "LOTE",
+    "area": "Área",
+    "side": "Lado",
+    "price": "Preço",
+    "front": "Frente para",
+    "ask": "Consultar",
+    "interest": "Tenho interesse neste lote",
+    "prev": "← Anterior",
+    "next": "Próximo →",
+    "stripAria": "Selecionar lote",
+    "disclaimer": "Modelo ilustrativo gerado a partir da planta do loteamento (set. 2026). Disponibilidade em {{@availDate}}. Divisas, áreas e disponibilidade sujeitas a confirmação com o assessor. As casas do modo “Imagine sua casa” são volumetrias de referência."
+  },
+  "gal": {
+    "aria": "Galeria",
+    "eyebrow": "Galeria",
+    "h2": "Como é viver no Portal",
+    "p": "Perspectivas da entrada, da área de lazer e de uma casa de referência. Clique em qualquer imagem para ver em tamanho real.",
+    "s1alt": "Perspectiva ao entardecer da portaria com cancela e guarita",
+    "s1t": "Portaria",
+    "s1d": "Controle de acesso 24h",
+    "s2alt": "Perspectiva da área de lazer com piscina, hidromassagem e quiosque com cobertura de palha",
+    "s2t": "Área de lazer",
+    "s2d": "Piscina · quiosque · áreas verdes",
+    "s3alt": "Perspectiva diurna da entrada com montanhas ao fundo",
+    "s3t": "A entrada",
+    "s3d": "Pedra, madeira e paisagismo nativo",
+    "s4alt": "Vista aérea noturna da via interna iluminada",
+    "s4t": "À noite",
+    "s4d": "Via interna iluminada",
+    "s5alt": "Perspectiva de casa térrea de campo com piscina",
+    "s5t": "Sua casa",
+    "s5d": "Referência em lote de 800 m²"
+  },
+  "feat": {
+    "aria": "Diferenciais",
+    "eyebrow": "Por que aqui",
+    "h2": "Natureza, segurança e exclusividade",
+    "p": "Um condomínio pequeno e de baixa densidade, onde cada lote tem espaço para casa, jardim e piscina, com a tranquilidade do acesso controlado.",
+    "f1t": "Natureza",
+    "f1d": "No pé da Sierra Nevada, com árvores nativas e ar puro a poucos minutos da cidade.",
+    "f2t": "Segurança 24h",
+    "f2d": "Condomínio fechado com portaria, guarita de vigilância e cancela para controle de veículos.",
+    "f3t": "Projeto sustentável",
+    "f3d": "Lotes amplos que preservam solo permeável, vegetação e espaço para energia solar.",
+    "f4t": "Localização privilegiada",
+    "f4d": "Na estrada Valledupar – Sabana Crespo, perto da cidade.",
+    "imgAlt": "Área de lazer com piscina",
+    "caption": "Perspectiva da área de lazer",
+    "figures": "O condomínio em números",
+    "r1": "Área total do terreno",
+    "v1": "27.333 m² (2,7 ha)",
+    "r2": "Lotes residenciais",
+    "v2": "27 · 800 m² (L17: 847 m² · L18: 939 m²)",
+    "r3": "Via interna",
+    "v3": "Eixo central norte–sul + ramal",
+    "r4": "Área de lazer",
+    "v4": "Piscina, quiosque e áreas verdes",
+    "r5": "Portaria",
+    "v5": "Na estrada para Valledupar",
+    "r6": "Altitude",
+    "v6": "276 – 288 m"
+  },
+  "loc": {
+    "aria": "Localização",
+    "eyebrow": "Localização",
+    "h2": "Estrada Valledupar – Sabana Crespo",
+    "body": "O terreno faz divisa a nordeste com a estrada para Valledupar, onde fica a portaria. Dali, uma via interna atravessa o condomínio de norte a sul e dá frente para todos os lotes.",
+    "maps": "Abrir no Google Maps",
+    "visit": "Agendar visita ao lote",
+    "thPoint": "Ponto",
+    "thN": "Norte",
+    "thE": "Leste",
+    "caption": "Quadro de coordenadas da planta do loteamento · Área: 2 ha 7.333,71 m²",
+    "surveyAria": "Esquema do terreno com seus vértices",
+    "tag": "Levantamento · vértices 1–11",
+    "svgAria": "Perímetro do terreno"
+  },
+  "faq": {
+    "aria": "Perguntas frequentes",
+    "eyebrow": "Perguntas frequentes",
+    "h2": "Tire suas dúvidas",
+    "items": [
+      [
+        "Quanto custa um lote no Portal de la Sierra?",
+        "Os lotes partem de COP {{@priceM2}} por m² (≈ US$ {{@usdM2}}/m²), ou seja, um lote de 800 m² sai a partir de COP {{@priceLot}} (≈ US$ {{@usdLot}}). Os valores em dólar são aproximados, com câmbio de COP {{@fxRate}} por US$; preço final, formas de pagamento e disponibilidade são confirmados com a Núñez Anaya Inmobiliaria."
+      ],
+      [
+        "Qual é o tamanho dos lotes?",
+        "São 27 lotes: 25 de 800 m², o lote 17 com 847 m² e o lote 18 com 939 m². A área total do empreendimento é de 27.333 m² (2,7 hectares)."
+      ],
+      [
+        "Onde fica o Portal de la Sierra?",
+        "Na estrada Valledupar – Sabana Crespo, nos arredores de Valledupar (departamento de Cesar, norte da Colômbia), no pé da Sierra Nevada de Santa Marta, entre 276 e 288 m de altitude."
+      ],
+      [
+        "É um condomínio fechado?",
+        "Sim. É um condomínio fechado de lotes com portaria 24h, guarita de vigilância e cancela com controle de acesso de veículos."
+      ],
+      [
+        "O que tem na área de lazer?",
+        "Piscina, hidromassagem, quiosque com cobertura de palha e áreas verdes, além de uma via interna que dá frente para todos os lotes."
+      ],
+      [
+        "O que posso construir em um lote de 800 m²?",
+        "Há espaço para uma casa de campo com jardim e piscina — a galeria mostra uma casa térrea como referência. Consulte o assessor sobre as regras de construção do condomínio."
+      ],
+      [
+        "Estrangeiro pode comprar imóvel na Colômbia?",
+        "Sim. Estrangeiros podem comprar imóveis na Colômbia com os mesmos direitos de um colombiano. O recomendado é enviar os recursos pelo mercado de câmbio oficial e registrar o investimento no Banco de la República (banco central colombiano). Informação geral: confirme os detalhes com um advogado na Colômbia."
+      ],
+      [
+        "Posso conhecer o empreendimento a distância?",
+        "Sim. A implantação 3D desta página foi construída sobre as coordenadas do levantamento topográfico, e um assessor pode apresentar os lotes disponíveis pelo WhatsApp antes da sua viagem."
+      ],
+      [
+        "Como agendar uma visita?",
+        "Fale com a gente pelo WhatsApp {{@phone}} ou preencha o formulário desta página; um assessor da Núñez Anaya Inmobiliaria agenda a visita ao lote."
+      ]
+    ]
+  },
+  "contact": {
+    "aria": "Contato",
+    "h2": "Um lugar onde os seus sonhos encontram um lar",
+    "body": "Conte qual lote chamou sua atenção e um assessor da Núñez Anaya Inmobiliaria entra em contato com preços, formas de pagamento e disponibilidade."
+  },
+  "form": {
+    "name": "Nome",
+    "namePh": "Seu nome",
+    "phone": "Celular / WhatsApp",
+    "phonePh": "+55 11 90000 0000",
+    "lot": "Lote de interesse",
+    "lotNone": "Ainda não sei, quero orientação",
+    "msg": "Mensagem",
+    "msgPh": "Quando você gostaria de visitar o empreendimento?",
+    "submit": "Preparar mensagem",
+    "sendWa": "Enviar pelo WhatsApp",
+    "copy": "Copiar mensagem"
+  },
+  "footer": {
+    "firmaAlt": "Um empreendimento da Núñez Anaya Inmobiliaria",
+    "legal": "Imagens meramente ilustrativas. A planta, as áreas e a disponibilidade podem mudar sem aviso prévio; as informações definitivas constam da promessa de compra e venda. Valores em US$ aproximados, com câmbio de COP {{@fxRate}} por US$ ({{@fxDate}}); os preços oficiais são em pesos colombianos."
+  },
+  "lb": {
+    "aria": "Imagem ampliada",
+    "close": "Fechar"
+  },
+  "js": {
+    "status": {
+      "disponible": "Disponível",
+      "reservado": "Reservado",
+      "vendido": "Vendido"
+    },
+    "side": {
+      "w": "Oeste",
+      "s": "Sul",
+      "e": "Leste"
+    },
+    "front": {
+      "road": "Via interna",
+      "south": "Ramal sul"
+    },
+    "lot": "Lote",
+    "note": {
+      "gate": "Ao lado da portaria, com frente para a via de acesso.",
+      "common": "Faz divisa com a área de lazer com piscina e quiosque.",
+      "south": "Extremo sul do condomínio, o mais afastado da estrada principal.",
+      "mid": "Lote de meio de quadra com frente para a via interna.",
+      "price": " Preço de referência COP {p}/m², sujeito a confirmação com o assessor.",
+      "usd": " Este lote ≈ {v}."
+    },
+    "ctaSold": "Ver lotes disponíveis",
+    "ctaInterest": "Tenho interesse neste lote",
+    "ask": "Consultar",
+    "needInfo": "Informe seu nome e celular para preparar a mensagem.",
+    "lotSel": "o Lote {n}",
+    "lotAny": "os lotes disponíveis",
+    "msg": "Olá, sou {name}. Tenho interesse n{lot} do Portal de la Sierra.{msg} Meu celular é {phone}. (Mensaje desde la versión en portugués del sitio)",
+    "copied": "Copiado",
+    "copy": "Copiar mensagem",
+    "ig": "Falar pelo Instagram",
+    "no3d": "Não foi possível carregar o modelo 3D neste navegador.",
+    "noWebgl": "Seu navegador não suporta WebGL. Veja a galeria e a planta mais abaixo."
+  }
+}
